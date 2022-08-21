@@ -1,7 +1,6 @@
-/* eslint-disable react/prop-types */
 import React from 'react';
 
-import MapContext from './MapContext';
+import MapContext from '../MapContext';
 
 class Camera extends React.Component {
   componentDidMount() {
